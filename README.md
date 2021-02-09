@@ -6,3 +6,7 @@ Log4Net ,
 ElasticSearch , 
 Windows10 ,
 SqlServer 
+
+
+# Notlar
+Mevcut projede uygulama logları hem sqlserver veritabanına hem elasticsearch'e yazılabilir durumda. log4net.config dosyasından appenders kısmından konfigüre edebilirsiniz.
